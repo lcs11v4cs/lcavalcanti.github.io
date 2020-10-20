@@ -1,6 +1,7 @@
 {
     "name": "Lucas Cavalcanti",
-    "short_name": "Lucas C.",
+    "short_name": "Lucas Cavalcanti",
+    "start_url": "https://lcavalcanti.com",
     "icons": [
         {
             "src": "/img/favicon/android-chrome-192x192.png",

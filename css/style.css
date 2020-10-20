@@ -281,66 +281,58 @@ img {
 /* Project Fonts -------------------------------------- */
 
 @font-face {
-  font-family: "heebo";
-  src: url("fonts/heebo-thin-webfont.eot");
-  src: url("fonts/heebo-thin-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/heebo-thin-webfont.woff") format('woff'), url("fonts/heebo-thin-webfont.ttf") format('truetype'), url("fonts/heebo.svg#heebo") format('svg');
+  font-family: "mada";
+  src: url("fonts/mada-extralight-webfont.eot");
+  src: url("fonts/mada-extralight-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/mada-extralight-webfont.woff") format('woff'), url("fonts/mada-extralight-webfont.ttf") format('truetype'), url("fonts/mada.svg#mada") format('svg');
   font-weight: 50;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "heebo";
-  src: url("fonts/heebo-light-webfont.eot");
-  src: url("fonts/heebo-light-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/heebo-light-webfont.woff") format('woff'), url("fonts/heebo-light-webfont.ttf") format('truetype'), url("fonts/heebo.svg#heebo") format('svg');
+  font-family: "mada";
+  src: url("fonts/mada-light-webfont.eot");
+  src: url("fonts/mada-light-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/mada-light-webfont.woff") format('woff'), url("fonts/mada-light-webfont.ttf") format('truetype'), url("fonts/mada.svg#mada") format('svg');
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "heebo";
-  src: url("fonts/heebo-regular-webfont.eot");
-  src: url("fonts/heebo-regular-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/heebo-regular-webfont.woff") format('woff'), url("fonts/heebo-regular-webfont.ttf") format('truetype'), url("fonts/heebo.svg#heebo") format('svg');
+  font-family: "mada";
+  src: url("fonts/mada-regular-webfont.eot");
+  src: url("fonts/mada-regular-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/mada-regular-webfont.woff") format('woff'), url("fonts/mada-regular-webfont.ttf") format('truetype'), url("fonts/mada.svg#mada") format('svg');
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "heebo";
-  src: url("fonts/heebo-medium-webfont.eot");
-  src: url("fonts/heebo-medium-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/heebo-medium-webfont.woff") format('woff'), url("fonts/heebo-medium-webfont.ttf") format('truetype'), url("fonts/heebo.svg#heebo") format('svg');
+  font-family: "mada";
+  src: url("fonts/mada-medium-webfont.eot");
+  src: url("fonts/mada-medium-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/mada-medium-webfont.woff") format('woff'), url("fonts/mada-medium-webfont.ttf") format('truetype'), url("fonts/mada.svg#mada") format('svg');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "heebo";
-  src: url("fonts/heebo-bold-webfont.eot");
-  src: url("fonts/heebo-bold-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/heebo-bold-webfont.woff") format('woff'), url("fonts/heebo-bold-webfont.ttf") format('truetype'), url("fonts/heebo.svg#heebo") format('svg');
+  font-family: "mada";
+  src: url("fonts/mada-semibold-webfont.eot");
+  src: url("fonts/mada-semibold-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/mada-semibold-webfont.woff") format('woff'), url("fonts/mada-semibold-webfont.ttf") format('truetype'), url("fonts/mada.svg#mada") format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mada";
+  src: url("fonts/mada-bold-webfont.eot");
+  src: url("fonts/mada-bold-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/mada-bold-webfont.woff") format('woff'), url("fonts/mada-bold-webfont.ttf") format('truetype'), url("fonts/mada.svg#mada") format('svg');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "heebo";
-  src: url("fonts/heebo-extrabold-webfont.eot");
-  src: url("fonts/heebo-extrabold-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/heebo-extrabold-webfont.woff") format('woff'), url("fonts/heebo-extrabold-webfont.ttf") format('truetype'), url("fonts/heebo.svg#heebo") format('svg');
-  font-weight: 800;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "heebo";
-  src: url("fonts/heebo-black-webfont.eot");
-  src: url("fonts/heebo-black-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/heebo-black-webfont.woff") format('woff'), url("fonts/heebo-black-webfont.ttf") format('truetype'), url("fonts/heebo.svg#heebo") format('svg');
+  font-family: "mada";
+  src: url("fonts/mada-black-webfont.eot");
+  src: url("fonts/mada-black-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/mada-black-webfont.woff") format('woff'), url("fonts/mada-black-webfont.ttf") format('truetype'), url("fonts/mada.svg#mada") format('svg');
   font-weight: 900;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "theboldfont";
-  src: url("fonts/theboldfont-bold-webfont.eot");
-  src: url("fonts/theboldfont-bold-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/theboldfont-bold-webfont.woff") format('woff'), url("fonts/theboldfont-bold-webfont.ttf") format('truetype'), url("fonts/theboldfont.svg#theboldfont") format('svg');
-  font-weight: 700;
   font-style: normal;
 }
 
@@ -1100,7 +1092,7 @@ body:after {
 }
 
 .box {
-  border: 2px solid #442cbb;
+  border: 2px solid #442CBB;
 }
 
 .body-overlay {
@@ -1131,7 +1123,7 @@ hr {
 }
 
 body .video {
-  background: #000000;
+  background: #262C3D;
   height: 0;
   position: relative;
   padding-bottom: 56.25%;
@@ -1154,7 +1146,7 @@ body .video iframe {
 /* Button Flat */
 
 .button-flat {
-  background: #fe2458;
+  background: #FE2458;
   width: auto;
   height: auto;
   text-decoration: none;
@@ -1170,7 +1162,7 @@ body .video iframe {
 }
 
 .button-flat:before {
-  background: #442cbb;
+  background: #442CBB;
   content: '';
   width: 100%;
   height: 100%;
@@ -1187,9 +1179,9 @@ body .video iframe {
 .button-flat span {
   color: #ffffff;
   /*Pixel value Fallback*/
-  font: 100 16px/16px heebo, Fallback, sans-serif;
+  font: 100 16px/16px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: 100 1.6rem/1.6rem heebo, Fallback, sans-serif;
+  font: 100 1.6rem/1.6rem mada, Fallback, sans-serif;
   padding: 14px 20px;
   position: relative;
   display: block;
@@ -1201,18 +1193,18 @@ body .video iframe {
 /* Button */
 
 .default-button {
-  color: #000000;
+  color: #262C3D;
   /*Pixel value Fallback*/
-  font: 200 20px/20px heebo, Fallback, sans-serif;
+  font: 200 20px/20px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: 200 2rem/2rem heebo, Fallback, sans-serif;
+  font: 200 2rem/2rem mada, Fallback, sans-serif;
   margin: 15px 0 10px;
   position: relative;
   float: left;
 }
 
 .default-button:after {
-  background: #000000;
+  background: #262C3D;
   content: '';
   width: 100%;
   height: 2px;
@@ -1238,11 +1230,11 @@ fieldset {
 legend {
   width: 100%;
   height: 43px;
-  color: #404040;
+  color: #57658c;
   /*Pixel value Fallback*/
-  font: normal 14px/32px heebo, Fallback, sans-serif;
+  font: normal 14px/32px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: normal 1.4rem/3.2rem heebo, Fallback, sans-serif;
+  font: normal 1.4rem/3.2rem mada, Fallback, sans-serif;
   background: none;
   margin-bottom: 5px;
   display: block;
@@ -1250,17 +1242,17 @@ legend {
 
 label {
   height: 30px;
-  color: #404040;
+  color: #57658c;
   /*Pixel value Fallback*/
-  font: normal 15px/15px heebo, Fallback, sans-serif;
+  font: normal 15px/15px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: normal 1.5rem/1.5rem heebo, Fallback, sans-serif;
+  font: normal 1.5rem/1.5rem mada, Fallback, sans-serif;
   margin: 5px 0 2px;
   display: block;
 }
 
 .focus label {
-  color: #404040;
+  color: #57658c;
 }
 
 .invalid label {
@@ -1270,9 +1262,9 @@ label {
 .invalid label:after {
   content: '(campo obrigatório)';
   /*Pixel value Fallback*/
-  font: normal 12px/12px heebo, Fallback, sans-serif;
+  font: normal 12px/12px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: normal 1.2rem/1.2rem heebo, Fallback, sans-serif;
+  font: normal 1.2rem/1.2rem mada, Fallback, sans-serif;
   text-transform: none;
   margin-left: 5px;
 }
@@ -1289,13 +1281,13 @@ label small {
 }
 
 label a {
-  color: #000000;
+  color: #262C3D;
   float: right;
   text-decoration: underline;
 }
 
 label a:hover {
-  color: #442cbb;
+  color: #442CBB;
 }
 
 input,
@@ -1315,13 +1307,13 @@ input[type="url"],
 input[type="datetime"] {
   width: 100%;
   height: 43px;
-  color: #404040;
+  color: #57658c;
   /*Pixel value Fallback*/
-  font: normal 15px/18px heebo, Fallback, sans-serif;
+  font: normal 15px/18px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: normal 1.5rem/1.8rem heebo, Fallback, sans-serif;
+  font: normal 1.5rem/1.8rem mada, Fallback, sans-serif;
   background: #ffffff;
-  border: 1px solid #808080;
+  border: 1px solid #9fa8c3;
   border-radius: 5px;
   background-clip: padding-box;
   margin: 2px 0 10px;
@@ -1336,7 +1328,7 @@ input[type="password"]:focus,
 input[type="number"]:focus,
 input[type="url"]:focus,
 input[type="datetime"]:focus {
-  border-color: #404040;
+  border-color: #57658c;
 }
 
 input[type="text"]:focus + i,
@@ -1347,8 +1339,8 @@ input[type="password"]:focus + i,
 input[type="number"]:focus + i,
 input[type="url"]:focus + i,
 input[type="datetime"]:focus + i {
-  color: #404040;
-  border-color: #404040;
+  color: #57658c;
+  border-color: #57658c;
 }
 
 .invalid input[type="text"],
@@ -1399,22 +1391,22 @@ textarea {
   width: 100%;
   height: 180px;
   height: 18rem;
-  color: #404040;
+  color: #57658c;
   /*Pixel value Fallback*/
-  font: normal 15px/18px heebo, Fallback, sans-serif;
+  font: normal 15px/18px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: normal 1.5rem/1.8rem heebo, Fallback, sans-serif;
+  font: normal 1.5rem/1.8rem mada, Fallback, sans-serif;
   background: #ffffff;
   resize: none;
   border-radius: 5px;
   background-clip: padding-box;
-  border: 1px solid #000000;
+  border: 1px solid #262C3D;
   margin: 2px 0 10px;
   padding: 14px;
 }
 
 textarea:focus {
-  border-color: #404040;
+  border-color: #57658c;
 }
 
 .invalid textarea {
@@ -1436,11 +1428,11 @@ textarea:focus {
 select {
   width: 100%;
   height: 43px;
-  color: #000000;
+  color: #262C3D;
   /*Pixel value Fallback*/
-  font: normal 14px/14px heebo, Fallback, sans-serif;
+  font: normal 14px/14px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: normal 1.4rem/1.4rem heebo, Fallback, sans-serif;
+  font: normal 1.4rem/1.4rem mada, Fallback, sans-serif;
   background: #eeecfa;
   -webkit-box-shadow: inset 1px 1px 3px 0px #a699e7;
   box-shadow: inset 1px 1px 3px 0px #a699e7;
@@ -1454,7 +1446,7 @@ select {
   background: #ffffff url(../img/select-box.png) no-repeat right;
   border-radius: 0.8em;
   background-clip: padding-box;
-  border: 1px solid #808080;
+  border: 1px solid #9fa8c3;
   margin: 2px 0 10px;
   position: relative;
   overflow: hidden;
@@ -1509,7 +1501,7 @@ option:hover {
 
 .checkbox label,
 .radio label {
-  color: #000000;
+  color: #262C3D;
   cursor: pointer;
   position: relative;
   margin-bottom: 5px;
@@ -1540,7 +1532,7 @@ option:hover {
 .checkbox input[type=radio] + label:before,
 .radio input[type=radio] + label:before {
   content: "";
-  color: #000000;
+  color: #262C3D;
   background: #ffffff;
   text-align: center;
   display: block;
@@ -1550,7 +1542,7 @@ option:hover {
   margin-right: 5px;
   border-radius: 0px;
   background-clip: padding-box;
-  border: 1px solid #000000;
+  border: 1px solid #262C3D;
   line-height: 12px!important;
 }
 
@@ -1569,7 +1561,7 @@ option:hover {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   content: "\2714";
-  color: #442cbb;
+  color: #442CBB;
 }
 
 .radio input[type=radio]:checked + label:before {
@@ -1581,7 +1573,7 @@ option:hover {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   content: "\25CF";
-  color: #442cbb;
+  color: #442CBB;
 }
 
 h1,
@@ -1590,11 +1582,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000000;
+  color: #262C3D;
   /*Pixel value Fallback*/
-  font: 800 26px/26px heebo, Fallback, sans-serif;
+  font: 800 26px/26px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: 800 2.6rem/2.6rem heebo, Fallback, sans-serif;
+  font: 800 2.6rem/2.6rem mada, Fallback, sans-serif;
 }
 
 h1 {
@@ -1666,14 +1658,14 @@ a,
 li,
 .text-base {
   /*Pixel value Fallback*/
-  font: 200 22px/38px heebo, Fallback, sans-serif;
+  font: 200 22px/38px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: 200 2.2rem/3.8rem heebo, Fallback, sans-serif;
-  color: #000000;
+  font: 200 2.2rem/3.8rem mada, Fallback, sans-serif;
+  color: #262C3D;
 }
 
 p a {
-  color: #404040;
+  color: #57658c;
 }
 
 p a:hover {
@@ -1681,7 +1673,7 @@ p a:hover {
 }
 
 p {
-  color: #000000;
+  color: #262C3D;
   clear: both;
 }
 
@@ -1709,13 +1701,13 @@ img {
 
 blockquote {
   background: #f5f5f5;
-  border-left: 3px solid #404040;
+  border-left: 3px solid #57658c;
   margin: 20px 0;
   padding: 17px 19px;
 }
 
 blockquote p {
-  color: #404040 !important;
+  color: #57658c !important;
   font-style: italic !important;
   margin: 0 !important;
 }
@@ -1763,11 +1755,11 @@ blockquote p {
 
 .text table {
   width: 100%;
-  color: #000000;
+  color: #262C3D;
   /*Pixel value Fallback*/
-  font: 200 15px/20px heebo, Fallback, sans-serif;
+  font: 200 15px/20px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: 200 1.5rem/2rem heebo, Fallback, sans-serif;
+  font: 200 1.5rem/2rem mada, Fallback, sans-serif;
   border-collapse: collapse;
   overflow-x: auto;
   display: block;
@@ -1784,25 +1776,25 @@ blockquote p {
 
 .text table thead th,
 .text table tfoot th {
-  color: #000000;
+  color: #262C3D;
   font-weight: bold;
 }
 
 .text table td,
 .text table th {
-  border: 1px solid #808080;
+  border: 1px solid #9fa8c3;
   text-align: left;
   padding: 8px;
 }
 
 .text pre {
   background: #f2f2f2;
-  color: #000000;
+  color: #262C3D;
   /*Pixel value Fallback*/
-  font: 800 15px/24px heebo, Fallback, sans-serif;
+  font: 800 15px/24px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: 800 1.5rem/2.4rem heebo, Fallback, sans-serif;
-  border: 1px solid #808080;
+  font: 800 1.5rem/2.4rem mada, Fallback, sans-serif;
+  border: 1px solid #9fa8c3;
   padding: 23px 17px;
   overflow-x: auto;
 }
@@ -1818,7 +1810,7 @@ blockquote p {
 /* Text Reset */
 
 .header-principal {
-  background: #442cbb;
+  background: #442CBB;
   padding: 15px 0;
   overflow: auto;
 }
@@ -1828,7 +1820,7 @@ blockquote p {
 }
 
 .footer-principal {
-  background: #442cbb;
+  background: #442CBB;
   padding: 15px 0;
   overflow: auto;
 }
@@ -1844,7 +1836,7 @@ blockquote p {
   max-width: 1200px;
   display: block;
   margin: 0 auto;
-  border: 2px solid #442cbb;
+  border: 2px solid #442CBB;
 }
 
 #row {
@@ -1905,7 +1897,7 @@ blockquote p {
 /* Home */
 
 body {
-  background: url('../img/bg-noise.jpg') repeat 0 0/auto #442cbb;
+  background: #ffffff;
   /* Container */
   /* Container */
   /* Photo */
@@ -1974,11 +1966,11 @@ body .box-text {
 
 body .box-text p,
 body .box-text a {
-  color: #ffffff;
+  color: #262C3D;
   /*Pixel value Fallback*/
-  font: 200 10px/22px heebo, Fallback, sans-serif;
+  font: 200 10px/22px mada, Fallback, sans-serif;
   /*Rem value*/
-  font: 200 1rem/2.2rem heebo, Fallback, sans-serif;
+  font: 200 1rem/2.2rem mada, Fallback, sans-serif;
   text-align: center;
 }
 
@@ -2000,7 +1992,7 @@ body .social-list li {
 }
 
 body .social-list a {
-  color: #ffffff;
+  color: #442CBB;
   font-size: 20px;
   font-size: 2rem;
   line-height: 20px;
